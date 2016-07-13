@@ -1,0 +1,15 @@
+{
+  "name": "white-hypotheticals",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brian Dunnette <dunn0172@umn.edu>",
+  "license": "MIT",
+  "dependencies": {
+    "tracery-grammar": "^2.7.2",
+    "twit": "^2.2.4"
+  }
+}
