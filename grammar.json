@@ -1,5 +1,7 @@
 {
-    "animal": ["panda", "fox", "capybara", "iguana"],
-    "emotion": ["sad", "happy", "angry", "jealous"],
-    "origin": ["I am #emotion.a# #animal#.", "#animal.s.capitalize# are so #emotion#!"]
+    "person": ["parent", "doctor", "police officer", "firefighter"],
+    "action": ["vacuum", "walk", "water", "bandage", "feed"],
+    "problem": ["burning", "sick", "nauseous", "hungry"],
+    "thing": ["patient", "baby", "houseplant", "dog", "cat", "grandmother", "car", "bicycle", "parakeet"],
+    "sentence": ["What about the #person# who has to #action# their #problem# #thing#?", "But what about the #person# whose #thing# has to be #action.ed#?", "Imagine you're a #person# whose #thing# is #problem#!"]
 }
