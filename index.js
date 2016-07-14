@@ -25,4 +25,4 @@ function sendTweet() {
 
 var timer = setInterval(function() {
     sendTweet()
-}, 300000);
+}, 600000);

@@ -1,7 +1,7 @@
 {
-    "person": ["parent", "doctor", "police officer", "firefighter", "business owner", "surgeon", "priest", "nun"],
+    "person": ["parent", "doctor", "police officer", "firefighter", "business owner", "surgeon", "priest", "nun", "gun owner"],
     "action": ["vacuum", "walk", "water", "bandage", "feed", "drive"],
-    "problem": ["burning", "sick", "nauseous", "hungry"],
-    "thing": ["patient", "baby", "houseplant", "dog", "cat", "grandmother", "car", "bicycle", "parakeet", "employee"],
+    "problem": ["burning", "sick", "nauseous", "hungry", "itchy"],
+    "thing": ["patient", "baby", "dog", "cat", "grandmother", "car", "bicycle", "parakeet", "employee", "handgun"],
     "sentence": ["What about the #person# who has to #action# their #problem# #thing#?", "But what about the #person# whose #thing# has to be #action.ed#?", "Imagine you're a #person# whose #thing# is #problem#!", "Think about the #person.s# with #problem# #thing.s#!"]
 }
